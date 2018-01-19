@@ -2,6 +2,7 @@
 	<head>
 	</head>
 	<body>
+		<h1>áo dài</h1>
 		<a href="index.php">Trở về danh sách</a>
 		<form method="POST" action="add.php">
 			<label>Nhập link ảnh</label><input name="img"/><br/>
